@@ -8,9 +8,9 @@ Each project listed here is designed with enterprise-grade standards, modular de
 
 ### 🔗 Explore the Blueprints
 
-| 🔢 Sr. No. | 🚀 Project Title             | 📄 Description                                                              | 🔗 GitHub Link                                          | 🛠 Tech Stack                                           |
+| Sr. No. | Project Title             | Description                                                              | GitHub Link                                          | Tech Stack                                           |
 |-----------|-----------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| 1         | Agentic RAG with Supervisor-Orchestrated Validation Loop               | Modular agentic system with supervisor control, LLM, RAG, and real-time web crawler, including output validation and dynamic routing.            | [agentic-RAG-with-supervisor-node](https://github.com/bhagwat-chate/agentic-RAG-with-supervisor-node)       | LangChain, FastAPI, Pinecone, Google Embeddings        |
+| 1         | Agentic RAG with Supervisor-Orchestrated Validation Loop               | Modular agentic system with supervisor control, LLM, RAG, and real-time web crawler, including output validation and dynamic routing.            | [agentic-RAG-with-supervisor-node](https://github.com/bhagwat-chate/agentic-RAG-with-supervisor-node)       | LangChain, Pinecone, Google Embeddings        |
 
 
 ---
