@@ -31,5 +31,5 @@ Each project listed here is designed with enterprise-grade standards, modular de
 - 🧰 GitHub: [@bhagwat-chate](https://github.com/bhagwat-chate)  
 - 📧 Email: bhagwatsteelnerve@gmail.com
 
-> 🚀 Built with purpose. Designed for scale. Ready for the future.
+> Built with purpose. Designed for scale. Ready for the future.
 
