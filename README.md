@@ -8,10 +8,10 @@ Each project listed here is designed with enterprise-grade standards, modular de
 
 ### 🔗 Explore the Blueprints
 
-| Sr. No. | Project Title             | Description                                                              | GitHub Link                                          | Tech Stack                                           |
-|-----------|-----------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| 1         | Agentic RAG with Supervisor-Orchestrated Validation Loop               | Modular agentic system with supervisor control, LLM, RAG, and real-time web crawler, including output validation and dynamic routing.            | [agentic-RAG-with-supervisor-node](https://github.com/bhagwat-chate/agentic-RAG-with-supervisor-node)       | LangChain, Pinecone, Google Embeddings        |
-
+| Sr. No. | Project Title                                     | Description                                                                                                         | GitHub Link                                                                 | Tech Stack                                  |
+|---------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------|
+| 1       | AI Travel & Expense Planner                       | Multi-agent travel planner with weather, hotels, attractions, LLM itinerary generation, and full cost breakdown.   | [travel-planner-agent](https://github.com/bhagwat-chate/travel-planner-agent) | LangGraph, OpenAI, Pydantic, SerpAPI        |
+| 2       | Agentic RAG with Supervisor-Orchestrated Validation Loop | Modular agentic system with supervisor control, LLM, RAG, and real-time web crawler, including output validation and dynamic routing. | [agentic-RAG-with-supervisor-node](https://github.com/bhagwat-chate/agentic-RAG-with-supervisor-node) | LangChain, Pinecone, Google Embeddings      |
 
 ---
 
@@ -32,4 +32,3 @@ Each project listed here is designed with enterprise-grade standards, modular de
 - 📧 Email: bhagwatsteelnerve@gmail.com
 
 > Built with purpose. Designed for scale. Ready for the future.
-
